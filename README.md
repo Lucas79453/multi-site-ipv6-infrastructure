@@ -50,5 +50,7 @@ As demonstrated in the logs below, the infrastructure achieved a 100% success ra
 ###  End-to-End ICMP Validation (PC-1 to PC-3)
 ![Ping Validation PC1 to PC3](ping_pc1_to_pc3.png)
 
-###  Return Path Routing Validation (PC-3 to PC-1)
-![Ping Validation PC3 to PC1](ping_pc3_to_pc1.png)Practical project driven by Infnet's hands-on learning methodology.
+###  Return Path Routing Validation (PC-3 to PC-1) 
+![Ping Validation PC3 to PC1](ping_pc3_to_pc1.png) 
+
+Practical project driven by Infnet's hands-on learning methodology.
