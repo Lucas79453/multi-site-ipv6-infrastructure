@@ -44,13 +44,11 @@ The topology's integrity was verified via the console using the show ipv6 route 
 
 As demonstrated in the logs below, the infrastructure achieved a 100% success rate (0% packet loss) with minimal latency (1-2ms), validating the complete convergence of the multi-site network:
 
-### Logical Topology Diagram (Cisco Packet Tracer)
-![Logical Topology](screenshots/Screenshot%202026-06-24%20at%2015.21.01.jpg)
+###  Logical Topology Diagram (Cisco Packet Tracer)
+![Logical Topology](topology.jpg)
 
-### End-to-End ICMP Validation (PC-1 to PC-3)
-![Ping Validation PC1 to PC3](screenshots/Screenshot%202026-06-24%20at%2015.22.35.png)
+###  End-to-End ICMP Validation (PC-1 to PC-3)
+![Ping Validation PC1 to PC3](ping_pc1_to_pc3.png)
 
-### Return Path Routing Validation (PC-3 to PC-1)
-![Ping Validation PC3 to PC1](screenshots/Screenshot%202026-06-24%20at%2015.23.06.png)
-
-Practical project driven by Infnet's hands-on learning methodology.
+###  Return Path Routing Validation (PC-3 to PC-1)
+![Ping Validation PC3 to PC1](ping_pc3_to_pc1.png)Practical project driven by Infnet's hands-on learning methodology.
