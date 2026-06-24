@@ -34,7 +34,7 @@ Configuring basic security policies directly via CLI (Cisco IOS) on the regional
 
 ### 3. Advanced IPv6 Static Routing
 Activating native IPv6 packet forwarding globally across the edge routers:
-```bash
+ bash
 Router(config)# ipv6 unicast-routing
 
 Manually creating static routing tables by defining precise next-hop IPv6 addresses and exit serial interfaces (Serial0/X/X). This guaranteed lean routing tables and flawless bidirectional traffic flow between Rio de Janeiro and São Paulo through the ISP cloud.
